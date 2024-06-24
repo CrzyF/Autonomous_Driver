@@ -1,3 +1,3 @@
 # Training
 
-[![Watch Video](https://github.com/murtazahassan/Neural-Networks-Self-Driving-Car-Raspberry-Pi/blob/main/Step2-Training/Training%20Steps.png)](https://youtu.be/57SODsvC9PU)
+[![Watch Video](https://github.com/CrzyF/Autonomous_Driver/blob/main/Other/Project%20Overview.png)]
